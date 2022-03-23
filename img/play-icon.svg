@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10" width="10" height="10">
+	<title>#1 Header</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #26272d } 
+	</style>
+	<g id="#1 Header">
+		<g id="Button">
+			<path id="Play Icon" class="shp0" d="M0 9.45C0 8.99 0 0.88 0 0.56C0 0.15 0.48 -0.16 0.96 0.08C1.35 0.28 9.01 4.18 9.66 4.52C10.09 4.74 10.08 5.26 9.66 5.48C9.19 5.72 1.5 9.65 0.94 9.92C0.53 10.12 0 9.9 0 9.45Z" />
+		</g>
+	</g>
+</svg>

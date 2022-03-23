@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13 11" width="13" height="11">
+	<title>#3 iPhone Feature</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+	</style>
+	<g id="#3 iPhone Feature">
+		<g id="Button">
+			<path id="Arrow Icon" class="shp0" d="M8.52 0.36L12.61 4.44C13.17 5.01 13.17 5.92 12.61 6.49C12.04 7.05 11.13 7.05 10.56 6.49L6.48 2.4C5.91 1.84 5.91 0.92 6.48 0.36C7.04 -0.21 7.96 -0.21 8.52 0.36ZM12.61 4.44C13.17 5.01 13.17 5.92 12.61 6.49L8.52 10.57C7.96 11.14 7.04 11.14 6.48 10.57C5.91 10.01 5.91 9.09 6.48 8.53L10.56 4.44C11.13 3.88 12.04 3.88 12.61 4.44ZM1.5 4L11.5 4C12.33 4 13 4.67 13 5.5C13 6.33 12.33 7 11.5 7L1.5 7C0.67 7 0 6.33 0 5.5C0 4.67 0.67 4 1.5 4Z" />
+		</g>
+	</g>
+</svg>
